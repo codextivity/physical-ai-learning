@@ -1,0 +1,2 @@
+PASS: planar pose, aligned/rotated frames, and Isaac Sim target deltas
+NOTE: no USD file was inspected; this is arithmetic validation only.
