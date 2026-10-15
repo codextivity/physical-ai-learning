@@ -1,0 +1,5 @@
+Elbow: (3.000, 0.000) m
+Link2 center: (3.500, 0.866) m
+Gripper X: 4.000 m
+Gripper Y: 1.732 m
+All 7 mathematical checks passed.
